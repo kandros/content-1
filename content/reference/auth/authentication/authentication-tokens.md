@@ -26,7 +26,7 @@ If a request to your endpoint contains a valid authentication token, it is consi
 
 ## Token Types
 
-**Temporary authentication** tokens are associated witha  specific node of the [`User` type](!alias-uhieg2shio#user-type) and have a certain validity duration. They can be issued from one of the active [authentication providers](!alias-seimeish6e#authentication-providers) in your project.
+**Temporary authentication** tokens are associated with a specific node of the [`User` type](!alias-uhieg2shio#user-type) and have a certain validity duration. They can be issued from one of the active [authentication providers](!alias-seimeish6e#authentication-providers) in your project.
 
 **Permanent authentication tokens (PATs)** are useful for server-side scripts that need access to your data. You can manage them in your [project settings](!alias-aechi6iequ).
 
